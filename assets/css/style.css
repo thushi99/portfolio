@@ -146,8 +146,6 @@ body { background: var(--smoky-black); }
 
 
 
-
-
 /*-----------------------------------*\
   #REUSED STYLE
 \*-----------------------------------*/
@@ -538,7 +536,7 @@ main {
 
 .service-icon-box { margin-bottom: 10px; }
 
-.service-icon-box img { margin: auto; }
+.service-icon-box img { margin: auto;}
 
 .service-content-box { text-align: center; }
 
