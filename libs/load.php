@@ -1,6 +1,5 @@
 <?php
-    function load_tmplete($name)
-    {
-        include __DIR__."../templetes/$name.php";
+    function load_templete($name){
+        include __DIR__."/../templetes/$name.php";
     }
 ?>
