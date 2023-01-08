@@ -789,6 +789,10 @@ main {
   margin-bottom: 7px;
 }
 
+.nowrap{
+  white-space: normal;
+}
+
 .timeline-list span {
   color: var(--vegas-gold);
   font-weight: var(--fw-400);

@@ -21,6 +21,7 @@
 
       <!-- Custom Javascript File-->
       <script src="./assets/js/script.js"></script>
+	  <script src="./assets/js/typewriter.js"></script>
 
       <!-- ionicon link -->
       <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>

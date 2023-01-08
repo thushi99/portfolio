@@ -6,7 +6,14 @@
 
         <div class="info-content">
             <h1 class="name" title="Thushitharan">Thushitharan</h1>
-            <p class="title">Cyber Security UG</p>
+            <p class="title">
+                <span class="nowrap">$</span>
+                <!--<span
+                    class="span3 nowrap"
+                    data-period="1400"
+                    data-rotate='[ "Web Development", "DevOps", "Pentesting", "Cloud Security", "Network Troubleshooting" ]'>
+                </span>-->
+            </p>
         </div>
 
         <button class="info_more-btn" data-sidebar-btn>
