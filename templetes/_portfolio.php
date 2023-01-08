@@ -45,42 +45,42 @@
 
         <ul class="project-list">
             <li class="project-item  active" data-filter-item data-category="web development">
-                <a href="#">
+                <a href="https://github.com/thushi99/thushi.github.io" target="_blank">
                     <figure class="project-img">
                         <div class="project-item-icon-box">
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
-                        <img src="./assets/images/project-1.jpg" alt="finance" loading="lazy">
+                        <img src="./assets/images/portfolio.png" alt="finance" loading="lazy">
                     </figure>
-                    <h3 class="project-title">Finance</h3>
-                    <p class="project-category">Web development</p>
+                    <h3 class="project-title">My Portfolio</h3>
+                    <p class="project-category">A terminal interfaced website</p>
                 </a>
             </li>
 
             <li class="project-item  active" data-filter-item data-category="cyber security">
-                <a href="#">
+                <a href="https://github.com/thushi99/stegcurity" target="_blank">
                     <figure class="project-img">
                         <div class="project-item-icon-box">
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
-                        <img src="./assets/images/project-5.png" alt="dsm." loading="lazy">
+                        <img src="./assets/images/stegurity.png" alt="dsm." loading="lazy">
                     </figure>
-                    <h3 class="project-title">DSM.</h3>
-                    <p class="project-category">Cyber Security</p>
+                    <h3 class="project-title">Stegurity</h3>
+                    <p class="project-category">A Steganography Tool</p>
                 </a>
             </li>
 
             <li class="project-item  active" data-filter-item data-category="compliance">
-                <a href="#">
+                <a href="https://github.com/thushi99/is27001-toolkit" target="_blank">
                     <figure class="project-img">
                         <div class="project-item-icon-box">
                         <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/project-8.jpg" alt="task manager" loading="lazy">
+                        <img src="./assets/images/iso27001.jpg" alt="task manager" loading="lazy">
                     </figure>
-                    <h3 class="project-title">Task Manager</h3>
-                    <p class="project-category">Compliance</p>
+                    <h3 class="project-title">ISO 27001 Toolkit</h3>
+                    <p class="project-category">Set of Documents of ISO 27001</p>
                 </a>
             </li>
         </ul>
